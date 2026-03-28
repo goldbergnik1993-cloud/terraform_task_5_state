@@ -26,4 +26,4 @@ resource "azurerm_resource_group" "example" {
   name     = "example-resources"
   location = "East US"
 }
-# Output the resource group name
+# Output the resource group name djmc
